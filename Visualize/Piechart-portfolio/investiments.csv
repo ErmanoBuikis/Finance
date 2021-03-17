@@ -1,0 +1,4 @@
+name,value,category,type
+bitcoin,150,crypto,coin
+ethereum,200,crypto,coin
+Usdt-usdc,300,crypto,Liquidity-swap
