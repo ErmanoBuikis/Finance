@@ -15,14 +15,14 @@ Trading Algorithm
 
 if P < dynamic_OPEN:
 
-   OPEN positions
+  - OPEN positions
     • Buy X BTC
     • Sell X BTC futures
 
 
 if P < dynamic_CLOSE:
 
-   CLOSE positions
+   - CLOSE positions
     • Sell X BTC
     • Close X BTC futures
 
