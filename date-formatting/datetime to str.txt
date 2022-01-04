@@ -1,0 +1,3 @@
+Date = datetime.datetime.strptime(df.index[idx], '%Y-%d-%m %H:%M:%S') 
+
+Date = datetime.datetime.strptime(df.index[idx], '%Y-%d-%m')
